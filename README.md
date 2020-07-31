@@ -7,7 +7,7 @@ kubectl apply -f /path/to/nginx-texel-deployment.yaml
 
 ## Python tests
 The code can run only on python3 
-1. Enter the 'webserver_validator' dir.
+1. Enter to 'webserver_validator' dir.
 2. Edit the settings.py file and enter the webserver IP.
 3. Run the following command from your cli
 python main.py
